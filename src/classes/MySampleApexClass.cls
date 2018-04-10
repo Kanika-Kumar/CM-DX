@@ -1,7 +1,5 @@
 //Created by Kanika
 
-public class MySampleApexClass { 
-
-    //added   new line   
+public class MySampleApexClass {       //comment added
   
    }
