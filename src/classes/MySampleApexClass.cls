@@ -1,5 +1,5 @@
 //Created by Kanika
 
-public class MySampleApexClass {       //comment added
+public class MySampleApexClass {       //comment added by Kanika
   
    }
